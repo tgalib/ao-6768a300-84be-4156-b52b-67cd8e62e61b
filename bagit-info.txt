@@ -1,0 +1,7 @@
+Source-Organization: Tauranga City Library
+Organization-Address: 91 Willow St, Tauranga 3110, New Zealand
+Contact-Phone: +64.7.5777177
+Contact-Email: library@tauranga.govt.nz
+External-Description: Cherub Class Yachts
+External-Identifier: 6768a300-84be-4156-b52b-67cd8e62e61b
+
